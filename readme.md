@@ -18,16 +18,19 @@ To get started, follow these steps:
 ```bash
 git clone https://github.com/oxyoxy1/ISG.git
 cd ISG
-2. Install the dependencies
-bash
+```
+### 2. Install the dependencies
+```bash
 Copy
 Edit
 pip install -r requirements.txt
+```
 3. Run the program
-bash
+```bash
 Copy
 Edit
 python main.py
+```
 Usage
 When you run the program, you will be prompted to enter your name and choose the length of your adventure. You will then proceed through the chapters, making decisions that affect the storyline. The choices you make will lead you to different outcomes.
 
@@ -46,12 +49,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-random
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -75,3 +72,4 @@ env/
 # OS generated files
 .DS_Store
 Thumbs.db
+```

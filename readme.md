@@ -21,14 +21,10 @@ cd ISG
 ```
 ### 2. Install the dependencies
 ```bash
-Copy
-Edit
 pip install -r requirements.txt
 ```
 ### 3. Run the program
 ```bash
-Copy
-Edit
 python main.py
 ```
 Usage
